@@ -8,7 +8,7 @@
 
 ## <a name="introduction">✌️ Introduction</a>
 
-This is a **ubscription Management System API** that handles **users, money, and business logic**.  
+This is a **subscription Management System API** that handles **users, money, and business logic**.  
 
 Authenticate users using JWTs, connect a database, create models and schemas, and integrate it with ORMs. Structure the architecture of API to ensure scalability and seamless communication with the frontend.  
 
