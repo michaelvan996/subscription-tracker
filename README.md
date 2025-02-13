@@ -1,24 +1,24 @@
-## 📋 <a name="table">Table of Contents</a>
+## 𝌞 <a name="table">Table of Contents</a>
 
-1. [Introduction](#introduction)
-2. [Tech Stack](#tech-stack)
-3. [Features](#features)
-4. [Quick Start](#quick-start)
+1.✌️ [Introduction](#introduction)
+2.💻 [Tech Stack](#tech-stack)
+3.📡 [Features](#features)
+4.🏁 [Quick Start](#quick-start)
 
 
-## <a name="introduction">🤖 Introduction</a>
+## <a name="introduction">✌️ Introduction</a>
 
 This is a **ubscription Management System API** that handles **users, money, and rbusiness logic**.  
 
 Authenticate users using JWTs, connect a database, create models and schemas, and integrate it with ORMs. Structure the architecture of API to ensure scalability and seamless communication with the frontend.  
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## <a name="tech-stack">💻 Tech Stack</a>
 
 - Node.js
 - Express.js
 - MongoDB
 
-## <a name="features">🔋 Features</a>
+## <a name="features">📡 Features</a>
 
 👉 **Advanced Rate Limiting and Bot Protection**: with Arcjet that helps secure the whole app.
 
@@ -34,7 +34,7 @@ Authenticate users using JWTs, connect a database, create models and schemas, an
 
 and many more, including code architecture and reusability
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start">🏁 Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 
